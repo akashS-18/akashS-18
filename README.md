@@ -174,7 +174,7 @@ print(me.motto())
 
 | 🏅 | Achievement | Details |
 |----|-------------|---------|
-| 💼 | **Tata Forage Virtual Internship** | Completed Data Visualisation programme — Tata Group, May 2026 |
+| 💼 | **Tata Forage Virtual Internship** | Completed Data Visualisation programme — Tata Group, June 2026 |
 | 🤖 | **AI & Computer Vision Project** | Built gesture music controller with **90%+ accuracy** and **<1s response time** |
 | 🌐 | **Full-Stack Application** | Delivered TrackAura with **5+ dashboards**, **30% productivity boost**, **25% perf gain** |
 | 📝 | **AI Resume Generator** | JobSnap AI — generated **50+ resumes**, reduced creation time by **70%** |
@@ -190,11 +190,11 @@ print(me.motto())
 
 | Degree | Institution | Expected | Score |
 |--------|-------------|----------|-------|
-| B.Sc. Computer Science | Anna University, Kanchipuram | May 2027 | 8.10 / 10.0 |
+| B.E. Computer Science And Engineering | Anna University, Kanchipuram | May 2027 | 8.10 / 10.0 |
 
 </div>
 
-**Relevant Coursework:** Data Structures & Algorithms (C++) · Probability & Statistics in CS (Python) · Intro to CS II (C++) · Linear Algebra with Computational Applications (Python)
+**Relevant Coursework:** Data Structures & Algorithms (C) · Probability & Statistics in CS (Python) · Linear Algebra with Computational Applications (Python)
 
 ---
 
